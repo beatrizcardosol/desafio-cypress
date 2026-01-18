@@ -1,4 +1,4 @@
-# ☕ Desafio Técnico - Academia de Testes Accenture 2026
+# Desafio Técnico - Academia de Testes Accenture 2026
 
 Este repositório contém a automação de testes End-to-End (E2E) e de API para a aplicação **Coffee Cart**, desenvolvida como parte do desafio técnico da Academia de Testes da **Accenture (Quality Engineering)**.
 

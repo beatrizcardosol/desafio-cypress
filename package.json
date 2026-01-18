@@ -1,0 +1,20 @@
+{
+  "name": "academia2026",
+  "version": "1.0.0",
+  "description": "projeto para academia de Cypress 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Beatriz Oliveira",
+  "license": "ISC",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "stepDefinitions": "cypress/support/step-definitions/"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-mochawesome-reporter": "^3.8.4"
+  }
+}
